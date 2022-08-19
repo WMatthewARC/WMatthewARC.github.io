@@ -14,10 +14,13 @@ h1{font-size: size 23px;}
 /*makeing ID color*/
 #purple{color: purple;}
 
-#white{color:white}
+.white{color:white}
 
-#blackBackground{background-color:black}
+.blackBackground{background-color:black}
 
 /*algin with class*/
-.alignLeft{left: auto;}
+.alignLeft{text-align: left;}
+.alignCenter{text-align: center;}
+.alignRight{text-align: right;}
+
 
