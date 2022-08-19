@@ -1,0 +1,23 @@
+
+/* this is a comment */ 
+
+
+h1{font-size: size 23px;}
+
+
+
+/* makeing class colers*/ 
+.blue{color:blue}
+.red{color:red}
+
+
+/*makeing ID color*/
+#purple{color: purple;}
+
+#white{color:white}
+
+#blackBackground{background-color:black}
+
+/*algin with class*/
+.alignLeft{left: auto;}
+
